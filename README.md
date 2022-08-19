@@ -1,4 +1,4 @@
-# Rode Landing Page clone  [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Rode Landing Page clone [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FTailwindCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 
 This is Rode Landing-page clone made using html5 and tailwind css.
 
@@ -27,8 +27,6 @@ This is Rode Landing-page clone made using html5 and tailwind css.
 
 2. learnt to use different tailwind blocks for building website faster.
 
-
-
 ## Live link of the project
 
-https://Rode-landingpage-clone.netlify.app/
+https://rode-landing-page-clone.netlify.app
